@@ -1,6 +1,6 @@
 # AMRichPresence
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72f21aaa-28d6-40d8-b2f7-a7b0ef52949e" />
+<img width="512" height="341" alt="New Project (1)" src="https://github.com/user-attachments/assets/3d9a9901-1b88-45eb-ac08-b2315650a39b" />
 
 
 ________________________
