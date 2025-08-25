@@ -11,6 +11,7 @@
 - **[Release 1.0 AMRichPresence](https://github.com/sponge104/AMRichPresence/releases/tag/release)**
 - Download: [Setup.exe](https://github.com/sponge104/AMRichPresence/releases/download/release/Setup.exe)
 -~~_Note: There are some known errors such as the image not showing; these will be fixed in a later update._~~
+
 ^^ fixed on v1.1
 
 ---
